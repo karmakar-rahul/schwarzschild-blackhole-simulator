@@ -69,6 +69,3 @@ This simulator implements:
 Rahul Karmakar
 
 ### If you find this repository interesting, then do give it a star :)
-
-Rahul Karmakar
-
