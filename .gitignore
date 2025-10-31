@@ -1,0 +1,21 @@
+# Compiled binaries
+blackhole_interactive
+blackhole
+*.o
+*.out
+
+# CUDA compiled files
+*.ptx
+*.cubin
+*.fatbin
+
+# Image outputs
+*.ppm
+*.png
+*.jpg
+
+# Editor files
+*.swp
+*~
+.vscode/
+.idea/
