@@ -12,6 +12,7 @@ blackhole
 # Image outputs
 *.ppm
 *.png
+!screenshot.png
 *.jpg
 
 # Editor files
